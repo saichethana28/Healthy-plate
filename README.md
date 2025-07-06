@@ -35,7 +35,6 @@ You can access the live app [here](your-live-app-link)
 ## Author
 
 Your Name: V. Sai Chethana
-
 Contact: saichethanavesireddy@gmail.com
 
 
