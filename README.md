@@ -30,11 +30,11 @@ A simple Streamlit web app to track calories and macronutrients (protein, fat, c
 
 ## Live Demo
 
-You can access the live app [here](your-live-app-link) *(replace with your deployed app URL)*
+You can access the live app [here](your-live-app-link) 
 
 ## Author
 
-Your Name  
-Contact: your.email@example.com
+Your Name: V. Sai Chethana
+Contact: saichethanavesireddy@gmail.com
 
 
