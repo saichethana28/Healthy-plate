@@ -30,7 +30,7 @@ A simple Streamlit web app to track calories and macronutrients (protein, fat, c
 
 ## Live Demo
 
-You can access the live app [here](your-live-app-link) 
+You can access the live app [here](https://healthy-plate-aq6wfbgg3fzhp8whwhb9mb.streamlit.app/) 
 
 ## Author
 
