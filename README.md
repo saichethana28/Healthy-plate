@@ -20,3 +20,21 @@ A simple Streamlit web app to track calories and macronutrients (protein, fat, c
 
 1. Clone the repository  
 2. Install required packages:
+3. Run the app:
+
+
+## Files
+
+- `app.py` - Main Streamlit app code  
+- `nutrition_data.csv` - Nutritional data for food items
+
+## Live Demo
+
+You can access the live app [here](your-live-app-link) *(replace with your deployed app URL)*
+
+## Author
+
+Your Name  
+Contact: your.email@example.com
+
+
